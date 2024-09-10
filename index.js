@@ -16,6 +16,8 @@ app.get('/home', ((req,res)=>{
     res.send("Welcome to home");
 }));
 
+console.log("Temporary change ");
+
 app.listen(port, ()=>{
     console.log(`App is running on ${5000}`);
 });
