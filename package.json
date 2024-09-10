@@ -1,0 +1,25 @@
+{
+  "name": "devops_assignment",
+  "version": "1.0.0",
+  "description": "Devops-Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2023tm93624/devops_assignment.git"
+  },
+  "keywords": [
+    "DevOps"
+  ],
+  "author": "2023tm93624",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2023tm93624/devops_assignment/issues"
+  },
+  "homepage": "https://github.com/2023tm93624/devops_assignment#readme",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
